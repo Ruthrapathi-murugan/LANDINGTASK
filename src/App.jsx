@@ -8,7 +8,7 @@ import Content1 from './Content1.jsx';
 import Content2 from './Content2.jsx';
 import Content3 from './Content3.jsx';
 import Header2 from './Header2.jsx';
-import 
+
 function App() {
 
   return (
