@@ -16,7 +16,7 @@ function Content3() {
                     </div>
                     <div className="col-lg-4">
                         <div className="testimonial-item mx-auto mb-5 mb-lg-0">
-                            <img className="img-fluid rounded-circle mb-3" src="public/Images/testimonials-2.jpg" alt="..."/>
+                            <img className="img-fluid rounded-circle mb-3" src="public/Images/testimonials-2.jpg"  alt="..."/>
                             <h5>Fred S.</h5>
                             <p className="font-weight-light mb-0">"Bootstrap is amazing. I've been using it to create lots of super nice landing pages."</p>
                         </div>
