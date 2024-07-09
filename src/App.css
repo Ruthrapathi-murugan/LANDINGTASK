@@ -10886,7 +10886,7 @@ header.masthead h1, header.masthead .h1 {
 }
 
 .call-to-action {
-  position: relative;
+  position: absolute;
   background-color: #343a40;
   background-image: 'url("/Images/bg-showcase-1.jpg")' no-repeat center center;
   background-size: cover;

@@ -22,7 +22,7 @@ function Header() {
 
   return (
     <>
-      <header className="masthead">
+      <header className="masthead" style={{ backgroundImage: 'url("/Images/bg-masthead.jpg")' }}>
         <div className="container position-relative">
           <div className="row justify-content-center">
             <div className="col-xl-6">
