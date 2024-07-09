@@ -22,7 +22,7 @@ function Header2() {
 
   return (
     <>
-      <section className="call-to-action text-white text-center" id="signup">
+      <section className="call-to-action text-white text-center" style={{ backgroundImage: 'url("/Images/bg-masthead.jpg")' }} id="signup">
         <div className="container position-relative">
           <div className="row justify-content-center">
             <div className="col-xl-6">
