@@ -10830,8 +10830,8 @@ textarea.form-control-lg {
 header.masthead {
   position: relative;
   background-color: #343a40; /* Fallback background color */
-  background: url('../public/Images/bg-masthead.jpg') no-repeat center center;
-; /* Ensure the path is correct */
+  background-image: 'url("/Images/bg-showcase-1.jpg")'  no-repeat center center;
+ /* Ensure the path is correct */
   background-size: cover;
   padding-top: 8rem;
   padding-bottom: 8rem;
@@ -10888,7 +10888,7 @@ header.masthead h1, header.masthead .h1 {
 .call-to-action {
   position: relative;
   background-color: #343a40;
-  background: url('../public/Images/bg-masthead.jpg') no-repeat center center;
+  background-image: 'url("/Images/bg-showcase-1.jpg")' no-repeat center center;
   background-size: cover;
   padding-top: 7rem;
   padding-bottom: 7rem;
