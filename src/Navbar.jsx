@@ -6,7 +6,7 @@ function Navbar() {
     <div>
        <nav className="navbar navbar-light bg-light fixed-top">
             <div className="container">
-                <a className="navbar-brand" href="#!">Start Bootstrap</a>
+                <a className="navbar-brand" href="#!">Ruthrapathi Murugan</a>
                 <a className="btn btn-primary" href="#signup">Sign Up</a>
             </div>
         </nav>
